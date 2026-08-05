@@ -5,9 +5,8 @@
 <p align="center">
   ₊˚୨♡୧⋆｡˚ ⋆
 </p>
----
 
-## ☕ Currently Making
+## ₍⑅ᐢ..ᐢ₎ Currently Making
 
 ✿ Cozy Python apps  
 ✿ Raspberry Pi projects  
@@ -15,7 +14,7 @@
 
 ---
 
-# ☕ Projects
+# ٩(^ᗜ^ )و ´- Projects
 
 📮 **Postcard Darling**  
 A cutesy digital postcard maker.
