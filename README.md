@@ -8,19 +8,18 @@
 
 ## ₍⑅ᐢ..ᐢ₎ Currently Making
 
-✿ Cozy Python apps  
-✿ Raspberry Pi projects  
-✿ Tiny digital experiences  
+Cozy Python apps  
+Raspberry Pi projects  
 
 ---
 
 # ٩(^ᗜ^ )و ´- Projects
 
-📮 **Postcard Darling**  
+ **Postcard Darling**  
 A cutesy digital postcard maker.
 
-🥠 **Fortune Cookie**  
+**Fortune Cookie**  
 A photobooth that gives you your fortune reading.
 
-👻 **Doom Break**  
+**Doom Break**  
 A Jump-scare anti-doomscrolling desktop app.
