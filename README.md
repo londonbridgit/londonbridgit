@@ -1,8 +1,5 @@
 # ♡ Hello, I'm Bridgit ♡
 
-Turning little ideas into cozy Python apps
-and whimsical Raspberry Pi projects. ✨
-
 ---
 
 ## ☕ Currently Making
