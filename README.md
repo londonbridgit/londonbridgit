@@ -1,16 +1,25 @@
-## Hi there 👋
+# ♡ Hello, I'm Bridgit ♡
 
-<!--
-**londonbridgit/londonbridgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Turning little ideas into cozy Python apps
+and whimsical Raspberry Pi projects. ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☕ Currently Making
+
+✿ Cozy Python apps  
+✿ Raspberry Pi projects  
+✿ Tiny digital experiences  
+
+---
+
+# ☕ Projects
+
+📮 **Postcard Darling**  
+A cutesy digital postcard maker.
+
+🥠 **Fortune Cookie**  
+A photobooth that gives you your fortune reading.
+
+👻 **Doom Break**  
+A Jump-scare anti-doomscrolling desktop app.
