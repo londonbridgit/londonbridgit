@@ -1,7 +1,7 @@
 <p align="center">
   ₊˚୨♡୧⋆｡˚ ⋆
 </p>
-# ♡ Hello, I'm Bridgit ♡
+♡ Hello, I'm Bridgit ♡
 <p align="center">
   ₊˚୨♡୧⋆｡˚ ⋆
 </p>
